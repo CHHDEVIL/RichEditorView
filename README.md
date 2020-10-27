@@ -1,5 +1,6 @@
 # RichEditorView
-Android富文本编辑器,本Demo只提供功能,至于页面UI图片需要您自己去设置
+
+Android富文本编辑器,本Demo只提供功能,至于页面UI图片需要您自己去设置!
 
 支持的功能
 ---
@@ -51,7 +52,7 @@ ps:以下属性请对照RichEditorView这个类里面的set方法
 ##### Gradle
 ```groovy
 dependencies {
-  implementation 'jp.wasabeef:richeditor-android:2.x.x'
+  implementation 'com.github.CHHDEVIL:RichEditorView:V1.0'
 }
 ```
 ### 编辑器的默认设置
