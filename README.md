@@ -1,4 +1,4 @@
-# RichEditor
+# RichEditorView
 Android富文本编辑器,本Demo只提供功能,至于页面UI图片需要您自己去设置
 
 支持的功能
@@ -109,7 +109,7 @@ editor.insertImage("https://raw.githubusercontent.com/wasabeef/art/master/twitte
 
 **文本更改侦听器**
 ```java
-RichEditor editor = (RichEditor) findViewById(R.id.editor);
+RichEditorView editor = (RichEditorView) findViewById(R.id.editor);
 editor. setOnTextChangeListener(new RichEditor.OnTextChangeListener() {
   @Override
   public void onTextChange(String text) {
