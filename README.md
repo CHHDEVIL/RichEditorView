@@ -87,7 +87,7 @@ editor.setPlaceholder("这里插入文本...");
 ```
 
 **其他**  
-请参考 [示例](https://github.com/wasabeef/richeditor-android/blob/master/sample/src/main/java/jp/wasabeef/sample/MainActivity.java)
+请参考 [示例](https://github.com/CHHDEVIL/RichEditor/blob/main/app/src/main/java/com/zsnet/richeditorview/MainActivity.java)
 
 ### 内容可处理功能
 ---
